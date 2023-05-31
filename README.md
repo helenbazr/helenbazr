@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenbazr
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics and Python
+- 🌱 I’m currently learning Machine and Deep Learning
 - 📫 How to reach me - helenbazrova@gmail.com
 
 <!---
